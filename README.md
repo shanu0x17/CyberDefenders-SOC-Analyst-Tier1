@@ -16,7 +16,7 @@ CyberDefenders
 
 ## Progress
 
-- [ ] Investigation 01
+- [x] Investigation 01 - JetBrains Lab
 - [ ] Investigation 02
 - [ ] Investigation 03
 
