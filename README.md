@@ -17,7 +17,7 @@ CyberDefenders
 ## Progress
 
 - [x] Investigation 01 - JetBrains Lab
-- [ ] Investigation 02
+- [x] Investigation 02 - RetailBreach
 - [ ] Investigation 03
 
 (Will be updated as I progress.)
